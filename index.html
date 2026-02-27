@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buddhist Monastery Directory — The Americas</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-left">
+      <h1 class="site-title">Buddhist Monastery Directory</h1>
+      <span class="site-subtitle">The Americas</span>
+    </div>
+    <div class="header-center">
+      <div class="search-container">
+        <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="text" id="search-input" placeholder="Search by name, city, country, or tradition..." autocomplete="off">
+        <button id="search-clear" class="search-clear" aria-label="Clear search">&times;</button>
+      </div>
+    </div>
+    <div class="header-right">
+      <button id="locate-btn" class="btn btn-subtle" title="Find monasteries near me">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="3"/><path d="M12 2v4m0 12v4m10-10h-4M6 12H2"/>
+        </svg>
+        Near Me
+      </button>
+      <button id="submit-btn" class="btn btn-accent">+ Suggest a Monastery</button>
+    </div>
+  </header>
+
+  <!-- Mobile filter toggle -->
+  <button id="filter-toggle" class="filter-toggle" aria-label="Toggle filters">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M4 6h16M6 12h12M8 18h8"/>
+    </svg>
+    Filters
+  </button>
+
+  <!-- Main content -->
+  <div class="main-container">
+    <!-- Filter sidebar -->
+    <aside id="sidebar" class="sidebar">
+      <div class="sidebar-header">
+        <h2>Filters</h2>
+        <button id="clear-filters" class="btn-link">Clear all</button>
+      </div>
+
+      <div class="filter-section">
+        <h3 class="filter-heading" data-toggle="country">
+          Country
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </h3>
+        <div class="filter-options" id="filter-country">
+          <!-- Populated dynamically from data by app.js -->
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h3 class="filter-heading" data-toggle="tradition">
+          Tradition
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </h3>
+        <div class="filter-options" id="filter-tradition">
+          <label><input type="checkbox" name="tradition" value="Theravada"> Theravada</label>
+          <label><input type="checkbox" name="tradition" value="Zen"> Zen</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Zen/Soto"> Soto</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Zen/Rinzai"> Rinzai</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Zen/Korean"> Korean Zen</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Zen/Plum Village"> Plum Village</label>
+          <label><input type="checkbox" name="tradition" value="Tibetan"> Tibetan</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Tibetan/Nyingma"> Nyingma</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Tibetan/Kagyu"> Kagyu</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Tibetan/Gelug"> Gelug</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Tibetan/Sakya"> Sakya</label>
+          <label class="sub-option"><input type="checkbox" name="tradition" value="Tibetan/Rimé"> Rim&#233;/Non-sectarian</label>
+          <label><input type="checkbox" name="tradition" value="Pure Land"> Pure Land</label>
+          <label><input type="checkbox" name="tradition" value="Insight/Vipassana"> Insight/Vipassana</label>
+          <label><input type="checkbox" name="tradition" value="Chan"> Chan</label>
+          <label><input type="checkbox" name="tradition" value="Shingon"> Shingon</label>
+          <label><input type="checkbox" name="tradition" value="Won"> Won</label>
+          <label><input type="checkbox" name="tradition" value="SGI/Nichiren"> SGI/Nichiren</label>
+          <label><input type="checkbox" name="tradition" value="Other"> Other</label>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h3 class="filter-heading" data-toggle="visitor">
+          Visitor Friendly
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </h3>
+        <div class="filter-options" id="filter-visitor">
+          <label><input type="checkbox" name="visitor" value="public"> Open to public</label>
+          <label><input type="checkbox" name="visitor" value="retreat"> Retreat guests welcome</label>
+          <label><input type="checkbox" name="visitor" value="residential"> Residential only</label>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h3 class="filter-heading" data-toggle="retreats">
+          Retreat Offerings
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </h3>
+        <div class="filter-options" id="filter-retreats">
+          <label><input type="checkbox" name="retreats" value="day"> Day visits</label>
+          <label><input type="checkbox" name="retreats" value="weekend"> Weekend retreats</label>
+          <label><input type="checkbox" name="retreats" value="week"> Week-long</label>
+          <label><input type="checkbox" name="retreats" value="month"> Month+</label>
+          <label><input type="checkbox" name="retreats" value="solitary"> Solitary retreat</label>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h3 class="filter-heading" data-toggle="ordination">
+          Ordination Program
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </h3>
+        <div class="filter-options" id="filter-ordination">
+          <label><input type="checkbox" name="ordination" value="yes"> Yes</label>
+          <label><input type="checkbox" name="ordination" value="no"> No</label>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h3 class="filter-heading" data-toggle="teacher">
+          Resident Teacher
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </h3>
+        <div class="filter-options" id="filter-teacher">
+          <label><input type="checkbox" name="teacher" value="yes"> Yes</label>
+          <label><input type="checkbox" name="teacher" value="no"> No</label>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h3 class="filter-heading" data-toggle="language">
+          Language
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </h3>
+        <div class="filter-options" id="filter-language">
+          <label><input type="checkbox" name="language" value="English-primary"> English-primary</label>
+          <label><input type="checkbox" name="language" value="Bilingual"> Bilingual</label>
+          <label><input type="checkbox" name="language" value="Non-English primary"> Non-English primary</label>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h3 class="filter-heading" data-toggle="setting">
+          Setting
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+        </h3>
+        <div class="filter-options" id="filter-setting">
+          <label><input type="checkbox" name="setting" value="Urban"> Urban</label>
+          <label><input type="checkbox" name="setting" value="Suburban"> Suburban</label>
+          <label><input type="checkbox" name="setting" value="Rural"> Rural</label>
+        </div>
+      </div>
+
+      <div class="sidebar-footer">
+        <div id="result-count" class="result-count"></div>
+      </div>
+    </aside>
+
+    <!-- Map and list area -->
+    <div class="content">
+      <div id="map" class="map-container"></div>
+
+      <!-- View toggle for list -->
+      <div class="list-header">
+        <div class="list-header-left">
+          <h2>Monasteries</h2>
+          <span id="list-count" class="list-count"></span>
+        </div>
+        <div class="list-header-right">
+          <label class="sort-label">Sort:
+            <select id="sort-select">
+              <option value="name">Name</option>
+              <option value="country">Country</option>
+              <option value="state">State/Province</option>
+              <option value="tradition">Tradition</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <div id="monastery-list" class="monastery-list"></div>
+    </div>
+  </div>
+
+  <!-- Detail Modal -->
+  <div id="detail-modal" class="modal-overlay" aria-hidden="true">
+    <div class="modal" role="dialog" aria-labelledby="modal-title">
+      <button class="modal-close" aria-label="Close">&times;</button>
+      <div id="modal-content" class="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- Submit Modal -->
+  <div id="submit-modal" class="modal-overlay" aria-hidden="true">
+    <div class="modal modal-submit" role="dialog" aria-labelledby="submit-title">
+      <button class="modal-close" aria-label="Close">&times;</button>
+      <div class="modal-body">
+        <h2 id="submit-title">Suggest a Monastery</h2>
+        <p class="submit-note">Know a monastery that's missing? Submit it for review. Submissions are not auto-published.</p>
+        <form id="submit-form">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="sub-name">Monastery Name *</label>
+              <input type="text" id="sub-name" required>
+            </div>
+            <div class="form-group">
+              <label for="sub-tradition">Tradition *</label>
+              <select id="sub-tradition" required>
+                <option value="">Select...</option>
+                <option>Theravada</option>
+                <option>Zen</option>
+                <option>Tibetan</option>
+                <option>Pure Land</option>
+                <option>Insight/Vipassana</option>
+                <option>Chan</option>
+                <option>Shingon</option>
+                <option>Won</option>
+                <option>SGI/Nichiren</option>
+                <option>Other</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="sub-address">Address *</label>
+            <input type="text" id="sub-address" placeholder="Full street address" required>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="sub-city">City *</label>
+              <input type="text" id="sub-city" required>
+            </div>
+            <div class="form-group">
+              <label for="sub-state">State/Province *</label>
+              <input type="text" id="sub-state" placeholder="e.g. CA, ON, SP" required>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="sub-country">Country *</label>
+            <select id="sub-country" required>
+              <option value="">Select...</option>
+              <option value="US">United States</option>
+              <option value="CA">Canada</option>
+              <option value="MX">Mexico</option>
+              <option value="BR">Brazil</option>
+              <option value="AR">Argentina</option>
+              <option value="CO">Colombia</option>
+              <option value="CL">Chile</option>
+              <option value="CR">Costa Rica</option>
+              <option value="PE">Peru</option>
+              <option value="CU">Cuba</option>
+              <option value="UY">Uruguay</option>
+              <option value="VE">Venezuela</option>
+              <option value="EC">Ecuador</option>
+              <option value="GT">Guatemala</option>
+            </select>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="sub-website">Website</label>
+              <input type="url" id="sub-website" placeholder="https://...">
+            </div>
+            <div class="form-group">
+              <label for="sub-phone">Phone</label>
+              <input type="tel" id="sub-phone">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="sub-description">Description</label>
+            <textarea id="sub-description" rows="3" placeholder="A few sentences about this monastery..."></textarea>
+          </div>
+          <div class="form-group">
+            <label for="sub-email">Your Email (for follow-up)</label>
+            <input type="email" id="sub-email">
+          </div>
+          <button type="submit" class="btn btn-accent btn-full">Submit for Review</button>
+        </form>
+        <div id="submit-success" class="submit-success" hidden>
+          <p>Thank you! Your suggestion has been saved for review.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
