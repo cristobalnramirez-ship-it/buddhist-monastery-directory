@@ -75,9 +75,16 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 // ===== Map =====
 function initMap() {
+  const americasBounds = L.latLngBounds(
+    L.latLng(-60, -170),  // SW corner
+    L.latLng(75, -30)     // NE corner
+  );
   map = L.map('map', {
     zoomControl: true,
-    scrollWheelZoom: true
+    scrollWheelZoom: true,
+    maxBounds: americasBounds,
+    maxBoundsViscosity: 1.0,
+    minZoom: 2
   }).setView([15, -80], 3);
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
