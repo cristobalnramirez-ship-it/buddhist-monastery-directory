@@ -3372,6 +3372,30 @@
     "osm_id": 419720377
   },
   {
+    "name": "Bodhicharya Trinidad & Tobago",
+    "tradition": "Tibetan",
+    "subTradition": "Karma Kagyu",
+    "country": "TT",
+    "city": "Port of Spain",
+    "state": "",
+    "lat": 10.6596,
+    "lng": -61.5086,
+    "address": "Contact center directly for location details",
+    "website": "https://bodhicharya-caribbean.org/trinidadandtobago/",
+    "phone": "",
+    "description": "Part of the worldwide Bodhicharya network founded by Ringu Tulku Rinpoche in 1997. Offers meditation instruction, teachings, weekend retreats, workshops, and online lectures in the Karma Kagyu tradition. No public address — please contact the center directly for meeting locations.",
+    "visitorFriendly": true,
+    "retreats": [
+      "day",
+      "weekend"
+    ],
+    "ordination": false,
+    "residentTeacher": false,
+    "language": "English-primary",
+    "setting": "Urban",
+    "source": "manual"
+  },
+  {
     "name": "Wat Alaska Yanna Varraran",
     "tradition": "Theravada",
     "subTradition": "",
