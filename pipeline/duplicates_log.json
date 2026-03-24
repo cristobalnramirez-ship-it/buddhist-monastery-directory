@@ -1,9 +1,3992 @@
 [
   {
+    "osm_name": "Mosteiro Zen Morro da Vargem",
+    "existing_name": "Mosteiro Zen Morro da Vargem",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 298304448
+  },
+  {
+    "osm_name": "Mt. Equity Zendo",
+    "existing_name": "Mt. Equity Zendo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 301772904
+  },
+  {
+    "osm_name": "Placer Buddhist Church",
+    "existing_name": "Placer Buddhist Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 312706350
+  },
+  {
+    "osm_name": "Fo Guang Shan Temple",
+    "existing_name": "Fo Guang Shan Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 319217500
+  },
+  {
+    "osm_name": "Nichiren Buddhist Temple",
+    "existing_name": "Nichiren Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 354201832
+  },
+  {
+    "osm_name": "Nichiren Shoshu Temple",
+    "existing_name": "Nichiren Shoshu Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 354217528
+  },
+  {
+    "osm_name": "Dai Bai Zan Cho Bo Zen Ji",
+    "existing_name": "Dai Bai Zan Cho Bo Zen Ji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356550320
+  },
+  {
+    "osm_name": "Sakya Monastery-Tibetan",
+    "existing_name": "Sakya Monastery-Tibetan",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356551066
+  },
+  {
+    "osm_name": "Shambhala Buddhist Meditation Center",
+    "existing_name": "Shambhala Buddhist Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356551109
+  },
+  {
+    "osm_name": "Kadampa Meditation Center Washington",
+    "existing_name": "Kadampa Meditation Center Washington",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356551264
+  },
+  {
+    "osm_name": "Nichiren Buddhist Temple",
+    "existing_name": "Nichiren Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356682295
+  },
+  {
+    "osm_name": "Cambodian Buddhist Temple",
+    "existing_name": "Cambodian Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356857381
+  },
+  {
+    "osm_name": "Soka Gakkai International",
+    "existing_name": "Soka Gakkai International",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356862652
+  },
+  {
+    "osm_name": "Texas Buddhist Association",
+    "existing_name": "Texas Buddhist Association",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356865934
+  },
+  {
+    "osm_name": "Thubten Richen Ling Dharma Center",
+    "existing_name": "Thubten Richen Ling Dharma Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356865967
+  },
+  {
+    "osm_name": "Phap Luan Buddhist Culture Center",
+    "existing_name": "Phap Luan Buddhist Culture Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356866337
+  },
+  {
+    "osm_name": "Houston Buddhist Vihara",
+    "existing_name": "Houston Buddhist Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 356866689
+  },
+  {
+    "osm_name": "Chùa Pháp Bảo",
+    "existing_name": "Chùa Pháp Bảo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357351458
+  },
+  {
+    "osm_name": "Cambodian Buddhist Society of Oregon",
+    "existing_name": "Cambodian Buddhist Society of Oregon",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357360399
+  },
+  {
+    "osm_name": "Heart of Wisdom Zen Temple",
+    "existing_name": "Heart of Wisdom Zen Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357360575
+  },
+  {
+    "osm_name": "Vietnamese Buddhist Church",
+    "existing_name": "Vietnamese Buddhist Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357470369
+  },
+  {
+    "osm_name": "Mountain Cloud Zen Center",
+    "existing_name": "Mountain Cloud Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357590922
+  },
+  {
+    "osm_name": "Chakrasambara Buddhist Center",
+    "existing_name": "Chakrasambara Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357621210
+  },
+  {
+    "osm_name": "Amitabha Buddhist Society",
+    "existing_name": "Amitabha Buddhist Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357651450
+  },
+  {
+    "osm_name": "Nebraska Zen Center",
+    "existing_name": "Nebraska Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357794296
+  },
+  {
+    "osm_name": "Nichiren Shoshu of America",
+    "existing_name": "Nichiren Shoshu of America",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357795283
+  },
+  {
+    "osm_name": "Cambodian Buddhist Temple",
+    "existing_name": "Cambodian Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358255865
+  },
+  {
+    "osm_name": "Wat Wichitaram Buddhist Temple",
+    "existing_name": "Wat Wichitaram Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358647425
+  },
+  {
+    "osm_name": "Wat Buddharangsi Buddhist Temple",
+    "existing_name": "Wat Buddharangsi Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358727025
+  },
+  {
+    "osm_name": "Gateless Gate Zen Center",
+    "existing_name": "Gateless Gate Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358749174
+  },
+  {
+    "osm_name": "Daihonzan Nichiren-Ji",
+    "existing_name": "Daihonzan Nichiren-Ji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358805051
+  },
+  {
+    "osm_name": "Kagyu Droden Kunchab",
+    "existing_name": "Kagyu Droden Kunchab",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358805091
+  },
+  {
+    "osm_name": "Fresno Cambodian Buddhist Society",
+    "existing_name": "Fresno Cambodian Buddhist Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358833661
+  },
+  {
+    "osm_name": "Lions Roar Dharma Center",
+    "existing_name": "Lions Roar Dharma Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358836293
+  },
+  {
+    "osm_name": "Nichiren Buddhist Church",
+    "existing_name": "Nichiren Buddhist Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358836402
+  },
+  {
+    "osm_name": "Northern California Koyasan Temple",
+    "existing_name": "Northern California Koyasan Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358836509
+  },
+  {
+    "osm_name": "Wat Lao Saophuph",
+    "existing_name": "Wat Lao Saophuph",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358837145
+  },
+  {
+    "osm_name": "Nichiren Buddhist Temple",
+    "existing_name": "Nichiren Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358838899
+  },
+  {
+    "osm_name": "Borimoa Zen Buddhist Temple",
+    "existing_name": "Borimoa Zen Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358849526
+  },
+  {
+    "osm_name": "Senshin Buddhist Church",
+    "existing_name": "Senshin Buddhist Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358850013
+  },
+  {
+    "osm_name": "Jodo-Shu Buddhist Templest",
+    "existing_name": "Jodo-Shu Buddhist Templest",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358850059
+  },
+  {
+    "osm_name": "Chua Lien Hoa Temple",
+    "existing_name": "Chua Lien Hoa Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358853308
+  },
+  {
+    "osm_name": "Institute of Buddhist Studies",
+    "existing_name": "Jodo Shinshu Center",
+    "distance_m": 8.8,
+    "name_similarity": 0.0,
+    "osm_id": 358854825
+  },
+  {
+    "osm_name": "Dharma Drum Mountain San Francisco Bay Area Center",
+    "existing_name": "Dharma Drum Mountain San Francisco Bay Area Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358854929
+  },
+  {
+    "osm_name": "Nichiren Buddhist International Center",
+    "existing_name": "Nichiren Buddhist International Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358855050
+  },
+  {
+    "osm_name": "Zen Meditation Center",
+    "existing_name": "Zen Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358857284
+  },
+  {
+    "osm_name": "Wat Buddhawararam",
+    "existing_name": "Wat Buddhawararam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358950885
+  },
+  {
+    "osm_name": "Chùa Phổ Minh",
+    "existing_name": "Chùa Phổ Minh",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 358994973
+  },
+  {
+    "osm_name": "New Haven Zen Center",
+    "existing_name": "New Haven Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 359283594
+  },
+  {
+    "osm_name": "Kalpa Bhadra Kadampa Buddhist Center",
+    "existing_name": "Kalpa Bhadra Kadampa Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 359987908
+  },
+  {
+    "osm_name": "Dorje Ling Buddhist Center",
+    "existing_name": "Dorje Ling Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 380046860
+  },
+  {
+    "osm_name": "Florida Buddhist Vihara",
+    "existing_name": "Florida Buddhist Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 382302633
+  },
+  {
+    "osm_name": "Suzuki-Roshi",
+    "existing_name": "Suzuki-Roshi",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 413744949
+  },
+  {
+    "osm_name": "Shinzo Zen Meditation Center",
+    "existing_name": "Shinzo Zen Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 553190131
+  },
+  {
+    "osm_name": "Zhuang Yan Monastery",
+    "existing_name": "Zhuang Yan Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 600622961
+  },
+  {
+    "osm_name": "Shambhala Meditation Center of White River",
+    "existing_name": "Shambhala Meditation Center of White River",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 715714994
+  },
+  {
+    "osm_name": "Cedar Rapids Zen Center",
+    "existing_name": "Cedar Rapids Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 878258251
+  },
+  {
+    "osm_name": "DiamondWay Buddhist Center",
+    "existing_name": "DiamondWay Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 914726707
+  },
+  {
+    "osm_name": "Shambhala Meditation Center",
+    "existing_name": "Shambhala Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 933677019
+  },
+  {
+    "osm_name": "Templo Budista Chagdud Gonpa Khadro Ling",
+    "existing_name": "Templo Budista Chagdud Gonpa Khadro Ling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 991296477
+  },
+  {
+    "osm_name": "International Kadampa Retreat Center Grand Canyon",
+    "existing_name": "International Kadampa Retreat Center Grand Canyon",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1183476881
+  },
+  {
+    "osm_name": "Wat Panyawanaram",
+    "existing_name": "Wat Panyawanaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1228213722
+  },
+  {
+    "osm_name": "Wat Lao Buddha Samaggi of Elgin",
+    "existing_name": "Wat Lao Buddha Samaggi of Elgin",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1324503600
+  },
+  {
+    "osm_name": "Wat Lao Buddhist Samakitham",
+    "existing_name": "Wat Lao Buddhist Samakitham",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1562063017
+  },
+  {
+    "osm_name": "Detroit Zen Center",
+    "existing_name": "Detroit Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1656042859
+  },
+  {
+    "osm_name": "Centro de Meditación Kadampa México",
+    "existing_name": "Centro de Meditación Kadampa México",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1684947219
+  },
+  {
+    "osm_name": "Hua Zang Si",
+    "existing_name": "Hua Zang Si",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1775084817
+  },
+  {
+    "osm_name": "Koyasan Buddhist Temple",
+    "existing_name": "Koyasan Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1858245167
+  },
+  {
+    "osm_name": "Watt Munisotaram Temple",
+    "existing_name": "Watt Munisotaram Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1863210303
+  },
+  {
+    "osm_name": "Madison Zen Center",
+    "existing_name": "Madison Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1962214683
+  },
+  {
+    "osm_name": "Centro Cultural Budista Soka Gakkai",
+    "existing_name": "Centro Cultural Budista Soka Gakkai",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2271238603
+  },
+  {
+    "osm_name": "Albuquerque Zen Center",
+    "existing_name": "Albuquerque Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2378538156
+  },
+  {
+    "osm_name": "Nichiren Buddhist Church",
+    "existing_name": "Nichiren Buddhist Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2434539211
+  },
+  {
+    "osm_name": "Xi Fang Temple",
+    "existing_name": "Xi Fang Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2561492405
+  },
+  {
+    "osm_name": "Choying Dzong Lhakhang",
+    "existing_name": "Choying Dzong Lhakhang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2609626585
+  },
+  {
+    "osm_name": "Wat Buddhabhavana (Great Wisdom Center)",
+    "existing_name": "Wat Buddhabhavana (Great Wisdom Center)",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2737710887
+  },
+  {
+    "osm_name": "Heruka Buddhist Center",
+    "existing_name": "Heruka Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2771774886
+  },
+  {
+    "osm_name": "Comunidade Budista Nitirensyu do Brasil",
+    "existing_name": "Comunidade Budista Nitirensyu do Brasil",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2811399425
+  },
+  {
+    "osm_name": "Mosteiro Zen Morro da Vargem Zenkoji",
+    "existing_name": "Mosteiro Zen Morro da Vargem Zenkoji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 2817094699
+  },
+  {
+    "osm_name": "Fo Guang Shan",
+    "existing_name": "Fo Guang Shan",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3013496107
+  },
+  {
+    "osm_name": "Wat Thai Chino Hills",
+    "existing_name": "Wat Thai Chino Hills",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3052741911
+  },
+  {
+    "osm_name": "Chùa Phước Long",
+    "existing_name": "Chùa Phước Long",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3134504678
+  },
+  {
+    "osm_name": "Birmingham Shambhala Meditation Center",
+    "existing_name": "Birmingham Shambhala Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3143052683
+  },
+  {
+    "osm_name": "Kagyu Shedrup Chöling",
+    "existing_name": "Kagyu Shedrup Chöling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3374917940
+  },
+  {
+    "osm_name": "Des Moines Zen Center",
+    "existing_name": "Des Moines Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3400069811
+  },
+  {
+    "osm_name": "Shambhala Meditation Center",
+    "existing_name": "Shambhala Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3451502937
+  },
+  {
+    "osm_name": "Ligmincha Morelos Bön Buddhist Sangha",
+    "existing_name": "Ligmincha Morelos Bön Buddhist Sangha",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3601593596
+  },
+  {
+    "osm_name": "Soka Gakkai RD La Vega",
+    "existing_name": "Soka Gakkai RD La Vega",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3657705732
+  },
+  {
+    "osm_name": "Soka Gakkai International",
+    "existing_name": "Soka Gakkai International",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3664797707
+  },
+  {
+    "osm_name": "Via Zen",
+    "existing_name": "Via Zen",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3782505265
+  },
+  {
+    "osm_name": "Pine Wind Zen Monastery",
+    "existing_name": "Pine Wind Zen Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3875535199
+  },
+  {
+    "osm_name": "Khmer Buddhist Temple Of Ontario",
+    "existing_name": "Khmer Buddhist Temple Of Ontario",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3919010067
+  },
+  {
+    "osm_name": "Mahasiddha Kadampa Buddhist Center",
+    "existing_name": "Mahasiddha Kadampa Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3931299270
+  },
+  {
+    "osm_name": "Soka Gakkai International-USA Buddhist Center",
+    "existing_name": "Soka Gakkai International-USA Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3944279325
+  },
+  {
+    "osm_name": "Mahamudra Kadampa Buddhist Center",
+    "existing_name": "Mahamudra Kadampa Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4097652822
+  },
+  {
+    "osm_name": "Mililani Hongwanji Buddhist Temple",
+    "existing_name": "Mililani Hongwanji Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4190041928
+  },
+  {
+    "osm_name": "Thai Buddhist Temple of Hawaii",
+    "existing_name": "Thai Buddhist Temple of Hawaii",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4196250289
+  },
+  {
+    "osm_name": "Wat Dhammavihara Hawaii",
+    "existing_name": "Wat Dhammavihara Hawaii",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4196250390
+  },
+  {
+    "osm_name": "Wat Thai of Los Angeles",
+    "existing_name": "Wat Thai of Los Angeles",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4197504389
+  },
+  {
+    "osm_name": "Chùa Phổ Đà",
+    "existing_name": "Chùa Phổ Đà",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4244136131
+  },
+  {
+    "osm_name": "Tibetan Buddhist Temple Sengue Dzong",
+    "existing_name": "Tibetan Buddhist Temple Sengue Dzong",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4258009390
+  },
+  {
+    "osm_name": "Mahayana Buddhist Temple",
+    "existing_name": "Mahayana Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4312238411
+  },
+  {
+    "osm_name": "SGI-USA Denver Culture Center",
+    "existing_name": "SGI-USA Denver Culture Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4319757092
+  },
+  {
+    "osm_name": "Chùa Long Hoa",
+    "existing_name": "Chùa Long Hoa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4320386677
+  },
+  {
+    "osm_name": "Berkeley Shambhala Center",
+    "existing_name": "Berkeley Shambhala Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4335160297
+  },
+  {
+    "osm_name": "Mokushozen Ecuador, Tena Dojo",
+    "existing_name": "Mokushozen Ecuador, Tena Dojo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4368840690
+  },
+  {
+    "osm_name": "Paia Rinzai Zen Mission",
+    "existing_name": "Paia Rinzai Zen Mission",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4527357853
+  },
+  {
+    "osm_name": "Chamma Ling Retreat Center",
+    "existing_name": "Chamma Ling Retreat Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4549713344
+  },
+  {
+    "osm_name": "Samtem Ling",
+    "existing_name": "Samtem Ling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4549713374
+  },
+  {
+    "osm_name": "Vajra Vidya Retreat Center",
+    "existing_name": "Vajra Vidya Retreat Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4549714713
+  },
+  {
+    "osm_name": "USA Shaolin Temple",
+    "existing_name": "USA Shaolin Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4557779301
+  },
+  {
+    "osm_name": "Lincoln Zen Center",
+    "existing_name": "Lincoln Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4719564998
+  },
+  {
+    "osm_name": "Centro de Meditação Kadampa Mahabodhi",
+    "existing_name": "Centro de Meditação Kadampa Mahabodhi",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4810342922
+  },
+  {
+    "osm_name": "Iowa City Zen Center",
+    "existing_name": "Iowa City Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4811666728
+  },
+  {
+    "osm_name": "Dharma Field Zen Center",
+    "existing_name": "Dharma Field Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 4819219125
+  },
+  {
+    "osm_name": "Chagdud Gonpa Padma Ling",
+    "existing_name": "Chagdud Gonpa Padma Ling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5107786979
+  },
+  {
+    "osm_name": "Comunidade Budista Soto Zenshu da América do Sul - Templo Busshinji",
+    "existing_name": "Comunidade Budista Soto Zenshu da América do Sul - Templo Busshinji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5127153568
+  },
+  {
+    "osm_name": "Sakya Buddhist Center",
+    "existing_name": "Sakya Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5156306090
+  },
+  {
+    "osm_name": "Amitabha Buddhist Society of Houston",
+    "existing_name": "Amitabha Buddhist Society of Houston",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5256303961
+  },
+  {
+    "osm_name": "Songsten Gampo Buddhist Center",
+    "existing_name": "Songsten Gampo Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5264107706
+  },
+  {
+    "osm_name": "Sociedade Budista Nitiren Shoshu Templo Brasileiro",
+    "existing_name": "Sociedade Budista Nitiren Shoshu Templo Brasileiro",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5288352280
+  },
+  {
+    "osm_name": "chùa Từ Quang",
+    "existing_name": "chùa Từ Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5311164622
+  },
+  {
+    "osm_name": "Honomu Hongwanji Mission",
+    "existing_name": "Honomu Hongwanji Mission",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5458062630
+  },
+  {
+    "osm_name": "Comunidade Zen Budista Zendo Brasil - Templo Taikozan Tenzuizenji",
+    "existing_name": "Comunidade Zen Budista Zendo Brasil - Templo Taikozan Tenzuizenji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5469604240
+  },
+  {
+    "osm_name": "Wat Lao Sithammaram of Hawaii (Ewa)",
+    "existing_name": "Wat Lao Sithammaram of Hawaii (Ewa)",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5552986923
+  },
+  {
+    "osm_name": "Brooklyn Zen Center",
+    "existing_name": "Brooklyn Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5620571660
+  },
+  {
+    "osm_name": "Chùa Liên Hoa Temple",
+    "existing_name": "Chùa Liên Hoa Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5720907981
+  },
+  {
+    "osm_name": "Templo Zen das Alterosas",
+    "existing_name": "Templo Zen das Alterosas",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5862312413
+  },
+  {
+    "osm_name": "Sanga Águas da Compaixão - Jisui Zendo",
+    "existing_name": "Sanga Águas da Compaixão - Jisui Zendo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5937161870
+  },
+  {
+    "osm_name": "Asociacion Religiosa Soka Gakkai",
+    "existing_name": "Asociacion Religiosa Soka Gakkai",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 6314323778
+  },
+  {
+    "osm_name": "Escola Soto-Budismo Zen",
+    "existing_name": "Escola Soto-Budismo Zen",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 6342325014
+  },
+  {
+    "osm_name": "Chua Xa Loi",
+    "existing_name": "Chua Xa Loi",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 6348410334
+  },
+  {
+    "osm_name": "Igreja Caio Victor",
+    "existing_name": "Igreja Caio Victor",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 6391312294
+  },
+  {
+    "osm_name": "Centro de Estudo do Budismo Tibetano Shiwalha",
+    "existing_name": "Centro de Estudo do Budismo Tibetano Shiwalha",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 6697588672
+  },
+  {
+    "osm_name": "Utica Khmer Buddhist Temple",
+    "existing_name": "Utica Khmer Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 6743329705
+  },
+  {
+    "osm_name": "Asheville Insight Meditation",
+    "existing_name": "Asheville Insight Meditation",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7091900279
+  },
+  {
+    "osm_name": "Jodoshu Betsuin Nippakuji de São Paulo",
+    "existing_name": "Jodoshu Betsuin Nippakuji de São Paulo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7167943558
+  },
+  {
+    "osm_name": "Templo Budista Nambei Honganji (Higashi Honganji)",
+    "existing_name": "Templo Budista Nambei Honganji (Higashi Honganji)",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7168002110
+  },
+  {
+    "osm_name": "Templo Budista Shingonshu Henshoji São Paulo",
+    "existing_name": "Templo Budista Shingonshu Henshoji São Paulo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7168039668
+  },
+  {
+    "osm_name": "Nagaloka Buddhist Center",
+    "existing_name": "Nagaloka Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7171975431
+  },
+  {
+    "osm_name": "Upper Valley Zen Center",
+    "existing_name": "Upper Valley Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7188596561
+  },
+  {
+    "osm_name": "Centro de Retiros Sanga Águas da Compaixão - Jisui Zendo",
+    "existing_name": "Centro de Retiros Sanga Águas da Compaixão - Jisui Zendo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7248838227
+  },
+  {
+    "osm_name": "Cambodian Buddhist Society",
+    "existing_name": "Cambodian Buddhist Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7324576821
+  },
+  {
+    "osm_name": "Dragon Mountain Zen Center",
+    "existing_name": "Dragon Mountain Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7396969544
+  },
+  {
+    "osm_name": "Kadampa Meditation Centre",
+    "existing_name": "Kadampa Meditation Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7488294820
+  },
+  {
     "osm_name": "Bodhi Manda Zen Center",
     "existing_name": "Bodhi Manda Zen Center",
     "distance_m": 129.8,
     "name_similarity": 1.0,
     "osm_id": 7511419028
+  },
+  {
+    "osm_name": "Zen Sangha",
+    "existing_name": "Zen Sangha",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7704388087
+  },
+  {
+    "osm_name": "Kadampa Meditation Centre",
+    "existing_name": "Kadampa Meditation Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7747287184
+  },
+  {
+    "osm_name": "Wat Samakki of Arizona",
+    "existing_name": "Wat Samakki of Arizona",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7793450634
+  },
+  {
+    "osm_name": "Karma Thegsum Choling",
+    "existing_name": "Karma Thegsum Choling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7838457937
+  },
+  {
+    "osm_name": "Vila Zen",
+    "existing_name": "Vila Zen",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 7888827856
+  },
+  {
+    "osm_name": "Empty Cloud Monastery",
+    "existing_name": "Empty Cloud Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8026607841
+  },
+  {
+    "osm_name": "Birken Forest Monastery",
+    "existing_name": "Birken Forest Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8051562795
+  },
+  {
+    "osm_name": "Fo Guang Shan Chung Mei Temple",
+    "existing_name": "Fo Guang Shan Chung Mei Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8293930927
+  },
+  {
+    "osm_name": "Forest Dhamma Monastery",
+    "existing_name": "Forest Dhamma Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8345278417
+  },
+  {
+    "osm_name": "Maui Dharma Center",
+    "existing_name": "Maui Dharma Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8416890750
+  },
+  {
+    "osm_name": "Aloka Vihara Forest Monastery",
+    "existing_name": "Aloka Vihara Forest Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8450524903
+  },
+  {
+    "osm_name": "Thekchen Choling Syracuse",
+    "existing_name": "Thekchen Choling Syracuse",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8787577239
+  },
+  {
+    "osm_name": "New York Zendō Shobo-ji",
+    "existing_name": "New York Zendō Shobo-ji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8832589721
+  },
+  {
+    "osm_name": "Wat Lao Siriwathanaram Buddhist Remple",
+    "existing_name": "Wat Lao Siriwathanaram Buddhist Remple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 8994609672
+  },
+  {
+    "osm_name": "Chagdud Gonpa Dawa Drolma",
+    "existing_name": "Chagdud Gonpa Dawa Drolma",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9112159526
+  },
+  {
+    "osm_name": "Kuluta Buddhist Center",
+    "existing_name": "Kuluta Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9197959980
+  },
+  {
+    "osm_name": "Dhammavihāra",
+    "existing_name": "Dhammavihāra",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9316538573
+  },
+  {
+    "osm_name": "Suddhavāri",
+    "existing_name": "Suddhavāri",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9317545025
+  },
+  {
+    "osm_name": "Palyul Choekhor Ling",
+    "existing_name": "Palyul Choekhor Ling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9388670755
+  },
+  {
+    "osm_name": "Eastern United Temple Foundation of Jacksonville, INC. Cambodian Buddhist Temple",
+    "existing_name": "Eastern United Temple Foundation of Jacksonville, INC. Cambodian Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9491201597
+  },
+  {
+    "osm_name": "Jam Tse Cho Ling Tibetan Buddhist Temple, Calgary",
+    "existing_name": "Jam Tse Cho Ling Tibetan Buddhist Temple, Calgary",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9503709006
+  },
+  {
+    "osm_name": "Baltimore Shambhala Meditation Center",
+    "existing_name": "Baltimore Shambhala Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9525595674
+  },
+  {
+    "osm_name": "China Buddhist Association",
+    "existing_name": "China Buddhist Association",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9671008990
+  },
+  {
+    "osm_name": "Gampopa Center",
+    "existing_name": "Gampopa Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9706238240
+  },
+  {
+    "osm_name": "Pure Land Center & Buddhist Library",
+    "existing_name": "Pure Land Center & Buddhist Library",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9846518770
+  },
+  {
+    "osm_name": "Dallas Meditation Center",
+    "existing_name": "Dallas Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9897410287
+  },
+  {
+    "osm_name": "Dallas Buddhist Center",
+    "existing_name": "Dallas Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9897423177
+  },
+  {
+    "osm_name": "DFW Buddhist Vihara Texas Buddhist Meditation Center",
+    "existing_name": "DFW Buddhist Vihara Texas Buddhist Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9897454859
+  },
+  {
+    "osm_name": "IBPS International Buddhist Progress Society",
+    "existing_name": "IBPS International Buddhist Progress Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9897464660
+  },
+  {
+    "osm_name": "Dallas Buddhist Association",
+    "existing_name": "Dallas Buddhist Association",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9897512329
+  },
+  {
+    "osm_name": "Karma Kagyu Tibetan Buddhist Meditation Center",
+    "existing_name": "Karma Kagyu Tibetan Buddhist Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9897526998
+  },
+  {
+    "osm_name": "Centro de Budista Tchimed Ling",
+    "existing_name": "Centro de Budista Tchimed Ling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 9993582376
+  },
+  {
+    "osm_name": "Santa Monica Buddhist Center",
+    "existing_name": "Santa Monica Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 10059092911
+  },
+  {
+    "osm_name": "Avalokiteshvara Kadampa Buddhist Centre",
+    "existing_name": "Avalokiteshvara Kadampa Buddhist Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 10124299918
+  },
+  {
+    "osm_name": "Blue Cliff Zen Center",
+    "existing_name": "Blue Cliff Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 10593151823
+  },
+  {
+    "osm_name": "Maggasacca",
+    "existing_name": "Maggasacca",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 10637690292
+  },
+  {
+    "osm_name": "Chùa Huê Lâm",
+    "existing_name": "Chùa Huê Lâm",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 10948474678
+  },
+  {
+    "osm_name": "Wat Kentucky Bodhivanaram",
+    "existing_name": "Wat Kentucky Bodhivanaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11051292780
+  },
+  {
+    "osm_name": "Cincinnati Zen Center",
+    "existing_name": "Cincinnati Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11148315605
+  },
+  {
+    "osm_name": "New York Buddhist Vihara",
+    "existing_name": "New York Buddhist Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11294017433
+  },
+  {
+    "osm_name": "Open Heart Sangha",
+    "existing_name": "Open Heart Sangha",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11294655269
+  },
+  {
+    "osm_name": "Cleveland Shambhala",
+    "existing_name": "Cleveland Shambhala",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11392676202
+  },
+  {
+    "osm_name": "Vajra Vidya Portland",
+    "existing_name": "Vajra Vidya Portland",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11414785491
+  },
+  {
+    "osm_name": "Centro Budista Camino del Diamante",
+    "existing_name": "Centro Budista Camino del Diamante",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11418345478
+  },
+  {
+    "osm_name": "Chua Quan Am",
+    "existing_name": "Chua Quan Am",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11429512148
+  },
+  {
+    "osm_name": "World Buddhist Center",
+    "existing_name": "World Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11612557285
+  },
+  {
+    "osm_name": "American Bodhi Center",
+    "existing_name": "American Bodhi Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11898655993
+  },
+  {
+    "osm_name": "Jetavana Temple Forest Monastery",
+    "existing_name": "Jetavana Temple Forest Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11938322208
+  },
+  {
+    "osm_name": "Dhammadharini Monastery",
+    "existing_name": "Dhammadharini Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 11950548693
+  },
+  {
+    "osm_name": "Vancouver Buddhist Temple",
+    "existing_name": "Vancouver Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12063928362
+  },
+  {
+    "osm_name": "SGI-USA New England Buddhist Center",
+    "existing_name": "SGI-USA New England Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12162802751
+  },
+  {
+    "osm_name": "Centro de Meditação Kadampa Campinas",
+    "existing_name": "Centro de Meditação Kadampa Campinas",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12211476905
+  },
+  {
+    "osm_name": "Kadampa Meditation Center Philadelphia",
+    "existing_name": "Kadampa Meditation Center Philadelphia",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12222614598
+  },
+  {
+    "osm_name": "Oak Tree in the Garden",
+    "existing_name": "Oak Tree in the Garden",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12233271406
+  },
+  {
+    "osm_name": "Chua Dao Quang",
+    "existing_name": "Chua Dao Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12368687504
+  },
+  {
+    "osm_name": "Wat Lao Buddharam",
+    "existing_name": "Wat Lao Buddharam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12449761739
+  },
+  {
+    "osm_name": "Chua Bao An",
+    "existing_name": "Chua Bao An",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12463329432
+  },
+  {
+    "osm_name": "Chùa Giác Quang",
+    "existing_name": "Chùa Giác Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12485204785
+  },
+  {
+    "osm_name": "Hōkyoji – Templo Zen da Sabedoria",
+    "existing_name": "Hōkyoji – Templo Zen da Sabedoria",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12569773910
+  },
+  {
+    "osm_name": "Wat Mongkoltepmunee Temple",
+    "existing_name": "Wat Mongkoltepmunee Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12586911861
+  },
+  {
+    "osm_name": "Wat Buddhanimit Thai Buddhist Temple",
+    "existing_name": "Wat Buddhanimit Thai Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12594350328
+  },
+  {
+    "osm_name": "Chùa Nhật Quang",
+    "existing_name": "Chùa Nhật Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12838624710
+  },
+  {
+    "osm_name": "Sarana International Buddhist Center",
+    "existing_name": "Sarana International Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12872479044
+  },
+  {
+    "osm_name": "Theravada Dhamma Society of Iowa",
+    "existing_name": "Theravada Dhamma Society of Iowa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13026971414
+  },
+  {
+    "osm_name": "See Zen Benevolent Society",
+    "existing_name": "See Zen Benevolent Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13059297003
+  },
+  {
+    "osm_name": "One Heart Sangha-Silver Spring Zendo",
+    "existing_name": "One Heart Sangha-Silver Spring Zendo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13099065930
+  },
+  {
+    "osm_name": "Arizona Buddhist Temple",
+    "existing_name": "Arizona Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13115687318
+  },
+  {
+    "osm_name": "Chùa Văn Thù",
+    "existing_name": "Chùa Văn Thù",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13249113760
+  },
+  {
+    "osm_name": "Chua Lien Hoa (Lien Hoa Temple)",
+    "existing_name": "Chua Lien Hoa (Lien Hoa Temple)",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13327122934
+  },
+  {
+    "osm_name": "Thiền Viện Pháp Thuận (Dharma Meditation Temple)",
+    "existing_name": "Thiền Viện Pháp Thuận (Dharma Meditation Temple)",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13337373613
+  },
+  {
+    "osm_name": "Kadampa Meditation Center Boston",
+    "existing_name": "Kadampa Meditation Center Boston",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13395925864
+  },
+  {
+    "osm_name": "Sansui-ji Mountains and Waters Temple",
+    "existing_name": "Sansui-ji Mountains and Waters Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13427772056
+  },
+  {
+    "osm_name": "Kadampa Meditation Center",
+    "existing_name": "Kadampa Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13440067673
+  },
+  {
+    "osm_name": "SGI-USA Santa Ana Buddhist Center",
+    "existing_name": "SGI-USA Santa Ana Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13516001832
+  },
+  {
+    "osm_name": "Kadampa Meditation Center Florida",
+    "existing_name": "Kadampa Meditation Center Florida",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 13539214454
+  },
+  {
+    "osm_name": "Cambridge Zen Center",
+    "existing_name": "Cambridge Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 29924956
+  },
+  {
+    "osm_name": "Fo Guang Shan Temple of Toronto",
+    "existing_name": "Fo Guang Shan Temple",
+    "distance_m": 0.0,
+    "name_similarity": 0.75,
+    "osm_id": 33687630
+  },
+  {
+    "osm_name": "Chùa Pháp Vân",
+    "existing_name": "Chùa Pháp Vân",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 34204303
+  },
+  {
+    "osm_name": "Nichiren Shu Temple",
+    "existing_name": "Nichiren Shu Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 40256443
+  },
+  {
+    "osm_name": "Pema Osel Ling Retreat Center",
+    "existing_name": "Pema Osel Ling Retreat Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 41171403
+  },
+  {
+    "osm_name": "Jodo Shinshu Center",
+    "existing_name": "Jodo Shinshu Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 43160734
+  },
+  {
+    "osm_name": "Dhammakaya Meditation Center Silicon Valley",
+    "existing_name": "Dhammakaya Meditation Center Silicon Valley",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 46861480
+  },
+  {
+    "osm_name": "Kadampa Meditation Center",
+    "existing_name": "Kadampa Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 67255609
+  },
+  {
+    "osm_name": "Soka Gakkai USA Washington DC Cultural Center",
+    "existing_name": "Soka Gakkai USA Washington DC Cultural Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 67828789
+  },
+  {
+    "osm_name": "Wat Mongkolratanaram",
+    "existing_name": "Wat Mongkolratanaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 69020458
+  },
+  {
+    "osm_name": "Thai Cultural Council of Wat Mongkolratanaram",
+    "existing_name": "Wat Mongkolratanaram",
+    "distance_m": 14.2,
+    "name_similarity": 0.4,
+    "osm_id": 69020459
+  },
+  {
+    "osm_name": "Wat Promwachirayan",
+    "existing_name": "Wat Promwachirayan",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 70605221
+  },
+  {
+    "osm_name": "West End Buddhist Temple and Meditation Centre",
+    "existing_name": "West End Buddhist Temple and Meditation Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 71219134
+  },
+  {
+    "osm_name": "Fo Guang Shan Xiang Yun Temple;International Buddhist Progress Society",
+    "existing_name": "Fo Guang Shan Xiang Yun Temple;International Buddhist Progress Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 72742079
+  },
+  {
+    "osm_name": "Chùa Phật Đà",
+    "existing_name": "Chùa Phật Đà",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 83065676
+  },
+  {
+    "osm_name": "Minnesota Zen Meditation Center",
+    "existing_name": "Minnesota Zen Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 89263288
+  },
+  {
+    "osm_name": "Fa Yun Chan Temple",
+    "existing_name": "Fa Yun Chan Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 102720223
+  },
+  {
+    "osm_name": "Diamond Zen Center",
+    "existing_name": "Diamond Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 104225115
+  },
+  {
+    "osm_name": "Tibetan Mongolian Buddhist Cultural Center",
+    "existing_name": "Tibetan Mongolian Buddhist Cultural Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 104928203
+  },
+  {
+    "osm_name": "Chùa Hồng Ân",
+    "existing_name": "Chùa Hồng Ân",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 105152922
+  },
+  {
+    "osm_name": "Zen Buddhist Temple",
+    "existing_name": "Zen Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 106971301
+  },
+  {
+    "osm_name": "Buddhist Dharma Centre Of Victoria",
+    "existing_name": "Buddhist Dharma Centre Of Victoria",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 137325309
+  },
+  {
+    "osm_name": "Shambhala Meditation Centre",
+    "existing_name": "Shambhala Meditation Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 137354825
+  },
+  {
+    "osm_name": "Clouds in Water Zen Center",
+    "existing_name": "Clouds in Water Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 141344447
+  },
+  {
+    "osm_name": "Honpa Hongwanji",
+    "existing_name": "Honpa Hongwanji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 154534430
+  },
+  {
+    "osm_name": "BSGI (Budismo Nitiren)",
+    "existing_name": "BSGI (Budismo Nitiren)",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 159089082
+  },
+  {
+    "osm_name": "Udumbara Zen Center",
+    "existing_name": "Udumbara Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 182917639
+  },
+  {
+    "osm_name": "Buddhist Church of Oakland",
+    "existing_name": "Buddhist Church of Oakland",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 189326807
+  },
+  {
+    "osm_name": "Soka Gakkai International Buddhist Center",
+    "existing_name": "Soka Gakkai International Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 192838741
+  },
+  {
+    "osm_name": "Templo Zen Pico de Raios",
+    "existing_name": "Templo Zen Pico de Raios",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 196611416
+  },
+  {
+    "osm_name": "Linh Quang Buddhist Center",
+    "existing_name": "Linh Quang Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 199416130
+  },
+  {
+    "osm_name": "Land of Calm Abiding (Tibetan Buddhist Retreat Center)",
+    "existing_name": "Land of Calm Abiding (Tibetan Buddhist Retreat Center)",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 204155699
+  },
+  {
+    "osm_name": "Buddhist Center of New Mexico",
+    "existing_name": "Buddhist Center of New Mexico",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 205571007
+  },
+  {
+    "osm_name": "Jing Yin Temple",
+    "existing_name": "Jing Yin Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 205715350
+  },
+  {
+    "osm_name": "Soka Gakkai Republica Dominicana SGI-RD",
+    "existing_name": "Soka Gakkai Republica Dominicana SGI-RD",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 207250639
+  },
+  {
+    "osm_name": "Thai Buddhist Temple",
+    "existing_name": "Thai Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 209846176
+  },
+  {
+    "osm_name": "Zen Buddhist Temple",
+    "existing_name": "Zen Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 209903604
+  },
+  {
+    "osm_name": "Chùa Quang Minh",
+    "existing_name": "Chùa Quang Minh",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 209927520
+  },
+  {
+    "osm_name": "Soka Gakkai International Buddhist Center",
+    "existing_name": "Soka Gakkai International Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 210542401
+  },
+  {
+    "osm_name": "Boston Buddha Vararam",
+    "existing_name": "Boston Buddha Vararam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 211982834
+  },
+  {
+    "osm_name": "Wat Lao Mixayaram of New England",
+    "existing_name": "Wat Lao Mixayaram of New England",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 214312857
+  },
+  {
+    "osm_name": "Blue Heron Zen Community",
+    "existing_name": "Blue Heron Zen Community",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 222585556
+  },
+  {
+    "osm_name": "Soka Gakkai Republica Dominicana Kaikan Oriental",
+    "existing_name": "Soka Gakkai Republica Dominicana Kaikan Oriental",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 224230134
+  },
+  {
+    "osm_name": "Templo Budista Hompa Hongwanji",
+    "existing_name": "Templo Budista Hompa Hongwanji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 227837583
+  },
+  {
+    "osm_name": "Hompa Hongwanji",
+    "existing_name": "Hompa Hongwanji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 227837587
+  },
+  {
+    "osm_name": "Chua Linh Quang",
+    "existing_name": "Chua Linh Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 228014278
+  },
+  {
+    "osm_name": "Watt Dhammacakkaram \"Watt Chas\"",
+    "existing_name": "Watt Dhammacakkaram \"Watt Chas\"",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 228540029
+  },
+  {
+    "osm_name": "Cổ Lâm Pagoda",
+    "existing_name": "Cổ Lâm Pagoda",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 228547468
+  },
+  {
+    "osm_name": "Seattle Koyasan Church",
+    "existing_name": "Seattle Koyasan Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 228732783
+  },
+  {
+    "osm_name": "Seattle Buddhist Church",
+    "existing_name": "Seattle Buddhist Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 228732859
+  },
+  {
+    "osm_name": "Chùa Việt Nam",
+    "existing_name": "Chùa Việt Nam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 228737978
+  },
+  {
+    "osm_name": "Zen Desert Sangha",
+    "existing_name": "Zen Desert Sangha",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 229554225
+  },
+  {
+    "osm_name": "Palyul Retreat Center",
+    "existing_name": "Palyul Retreat Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 229736017
+  },
+  {
+    "osm_name": "Karma Triyana Dharmachakra Monastery",
+    "existing_name": "Karma Triyana Dharmachakra Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 233883909
+  },
+  {
+    "osm_name": "San Mateo Buddhist Temple",
+    "existing_name": "San Mateo Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 237686109
+  },
+  {
+    "osm_name": "Watt Samakki Dhammikaram",
+    "existing_name": "Watt Samakki Dhammikaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 241811831
+  },
+  {
+    "osm_name": "Soka Gakkai International San Francisco Culture Center",
+    "existing_name": "Soka Gakkai International San Francisco Culture Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 242995380
+  },
+  {
+    "osm_name": "Fo Guang Shan Buddha's Light Centre Waterloo",
+    "existing_name": "Fo Guang Shan Buddha's Light Centre Waterloo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 243699942
+  },
+  {
+    "osm_name": "Fire Lotus Temple",
+    "existing_name": "Fire Lotus Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 248165679
+  },
+  {
+    "osm_name": "SGI-USA New York Culture Centre",
+    "existing_name": "SGI-USA New York Culture Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 248773775
+  },
+  {
+    "osm_name": "Paauilo Hongwanji Mission",
+    "existing_name": "Paauilo Hongwanji Mission",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 253581546
+  },
+  {
+    "osm_name": "Still Point Zen Buddhist Temple",
+    "existing_name": "Still Point Zen Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 257650415
+  },
+  {
+    "osm_name": "Gold Mountain Monastery",
+    "existing_name": "Gold Mountain Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 260524896
+  },
+  {
+    "osm_name": "Fo Guang Shan San Bao Temple",
+    "existing_name": "Fo Guang Shan San Bao Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 261128338
+  },
+  {
+    "osm_name": "Shambhala Meditation Center",
+    "existing_name": "Shambhala Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 262896425
+  },
+  {
+    "osm_name": "Rissho Kosei-kai Dharma Center",
+    "existing_name": "Rissho Kosei-kai Dharma Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 268205327
+  },
+  {
+    "osm_name": "Chùa Quang Minh",
+    "existing_name": "Chùa Quang Minh",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 272288967
+  },
+  {
+    "osm_name": "San Fran Dhammaram Temple",
+    "existing_name": "San Fran Dhammaram Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 276755820
+  },
+  {
+    "osm_name": "Odiyan Retreat Center",
+    "existing_name": "Odiyan Retreat Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 279275102
+  },
+  {
+    "osm_name": "Wat Buddha Thai Thavorn Vanaram",
+    "existing_name": "Wat Buddha Thai Thavorn Vanaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 280521600
+  },
+  {
+    "osm_name": "Nyingma Palyul Dharma Center",
+    "existing_name": "Nyingma Palyul Dharma Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 281398357
+  },
+  {
+    "osm_name": "Chenrezig Gompa",
+    "existing_name": "Chenrezig Gompa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 284111497
+  },
+  {
+    "osm_name": "Han Ma Um Zen Center of New York",
+    "existing_name": "Han Ma Um Zen Center of New York",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 284535089
+  },
+  {
+    "osm_name": "New York Dhammaram Temple",
+    "existing_name": "New York Dhammaram Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 284717293
+  },
+  {
+    "osm_name": "Paramita Buddhist Monastery",
+    "existing_name": "Paramita Buddhist Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 287570169
+  },
+  {
+    "osm_name": "Wat Dhammararam Buddhist Temple",
+    "existing_name": "Wat Dhammararam Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 287606254
+  },
+  {
+    "osm_name": "Stockton Buddhist Church",
+    "existing_name": "Stockton Buddhist Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 288255679
+  },
+  {
+    "osm_name": "Won Buddhism Meditation Temple",
+    "existing_name": "Won Buddhism Meditation Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 288922947
+  },
+  {
+    "osm_name": "Zen Center",
+    "existing_name": "Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 295697005
+  },
+  {
+    "osm_name": "Chùa Chân Quang",
+    "existing_name": "Chùa Chân Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 303262090
+  },
+  {
+    "osm_name": "Won Buddhism of Hawaii",
+    "existing_name": "Won Buddhism of Hawaii",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 303679807
+  },
+  {
+    "osm_name": "Zen Mountain Monastery Main House",
+    "existing_name": "Zen Mountain Monastery Main House",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 304813357
+  },
+  {
+    "osm_name": "Chùa Giác Minh",
+    "existing_name": "Chùa Giác Minh",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 304931337
+  },
+  {
+    "osm_name": "Berkeley Buddhist Temple",
+    "existing_name": "Berkeley Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 305960940
+  },
+  {
+    "osm_name": "Yun Lin Temple",
+    "existing_name": "Yun Lin Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 308163454
+  },
+  {
+    "osm_name": "Buddhist Church of San Francisco",
+    "existing_name": "Buddhist Church of San Francisco",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 308165312
+  },
+  {
+    "osm_name": "Wat Phrabuddhivongsamunee Thai Laos Temple",
+    "existing_name": "Wat Phrabuddhivongsamunee Thai Laos Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 309266902
+  },
+  {
+    "osm_name": "Kojin-An Zendo",
+    "existing_name": "Kojin-An Zendo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 310190142
+  },
+  {
+    "osm_name": "Berkeley Zen Center",
+    "existing_name": "Berkeley Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 310343940
+  },
+  {
+    "osm_name": "Wat Lao Buddharam",
+    "existing_name": "Wat Lao Buddharam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 316313172
+  },
+  {
+    "osm_name": "Yellow Springs Dharma Center",
+    "existing_name": "Yellow Springs Dharma Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 317626120
+  },
+  {
+    "osm_name": "Kunzang Palchen Ling KPL",
+    "existing_name": "Kunzang Palchen Ling KPL",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 317967619
+  },
+  {
+    "osm_name": "Bright Way Zen",
+    "existing_name": "Bright Way Zen",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 324428946
+  },
+  {
+    "osm_name": "Gaden Samten Ling Tibetan Buddhist Meditation Society",
+    "existing_name": "Gaden Samten Ling Tibetan Buddhist Meditation Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 325035270
+  },
+  {
+    "osm_name": "Buddhist Church of Florin",
+    "existing_name": "Buddhist Church of Florin",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 325436230
+  },
+  {
+    "osm_name": "Kona Hongwanji Mission",
+    "existing_name": "Kona Hongwanji Mission",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 328292381
+  },
+  {
+    "osm_name": "Soka Gakkai RD",
+    "existing_name": "Soka Gakkai RD",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 328677043
+  },
+  {
+    "osm_name": "Wat Buddhatham-Aram",
+    "existing_name": "Wat Buddhatham-Aram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 331312980
+  },
+  {
+    "osm_name": "Kagyu Shenpen Kunchab Buddhist Center",
+    "existing_name": "Kagyu Shenpen Kunchab Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 341359732
+  },
+  {
+    "osm_name": "Chùa Vạn Hạnh",
+    "existing_name": "Chùa Vạn Hạnh",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 345593643
+  },
+  {
+    "osm_name": "Chùa Hội Phước",
+    "existing_name": "Chùa Hội Phước",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 348408380
+  },
+  {
+    "osm_name": "Soka Gakkai International USA - Oregon Buddhist Center",
+    "existing_name": "Soka Gakkai International USA - Oregon Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 349954566
+  },
+  {
+    "osm_name": "San Jose Betsuin Annex",
+    "existing_name": "San Jose Betsuin Annex",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 350497030
+  },
+  {
+    "osm_name": "San Jose Buddhist Church Betsuin",
+    "existing_name": "San Jose Buddhist Church Betsuin",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 350497031
+  },
+  {
+    "osm_name": "Chua Bao Lam",
+    "existing_name": "Chua Bao Lam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 357218737
+  },
+  {
+    "osm_name": "Watt Samaki Cambodian Buddhist Temple",
+    "existing_name": "Watt Samaki Cambodian Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 360430814
+  },
+  {
+    "osm_name": "Centro Budista Ganden Shedrub Ling",
+    "existing_name": "Centro Budista Ganden Shedrub Ling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 365422958
+  },
+  {
+    "osm_name": "Rigpe Dorje Centre",
+    "existing_name": "Rigpe Dorje Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 367138494
+  },
+  {
+    "osm_name": "Avatamsaka Vihara",
+    "existing_name": "Avatamsaka Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 367183418
+  },
+  {
+    "osm_name": "Foundation for the Preservation of the Mahayana Tradition",
+    "existing_name": "Foundation for the Preservation of the Mahayana Tradition",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 368063943
+  },
+  {
+    "osm_name": "Kuti",
+    "existing_name": "Wat Buddhatham-Aram",
+    "distance_m": 47.1,
+    "name_similarity": 0.0,
+    "osm_id": 368239788
+  },
+  {
+    "osm_name": "Chùa Nam-Quang",
+    "existing_name": "Chùa Nam-Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 368240905
+  },
+  {
+    "osm_name": "Tịnh Xá Ngọc Châu",
+    "existing_name": "Tịnh Xá Ngọc Châu",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 369211133
+  },
+  {
+    "osm_name": "Tịnh Xá Ngọc Phước",
+    "existing_name": "Tịnh Xá Ngọc Phước",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 370985861
+  },
+  {
+    "osm_name": "Lao Buddhist Center Northwest Inc.",
+    "existing_name": "Lao Buddhist Center Northwest Inc.",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 371308599
+  },
+  {
+    "osm_name": "Chua Hoa Nghiem",
+    "existing_name": "Chua Hoa Nghiem",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 371438458
+  },
+  {
+    "osm_name": "Soka Gakkai Republica Dominicana SGI-RD Dajabon",
+    "existing_name": "Soka Gakkai Republica Dominicana SGI-RD Dajabon",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 374947356
+  },
+  {
+    "osm_name": "Chùa Phật Quang",
+    "existing_name": "Chùa Phật Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 377814230
+  },
+  {
+    "osm_name": "Longmont Buddhist Temple",
+    "existing_name": "Longmont Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 379086512
+  },
+  {
+    "osm_name": "Wat Lao Veluwanaram",
+    "existing_name": "Wat Lao Veluwanaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 380699131
+  },
+  {
+    "osm_name": "Karma Theksum Chokhorling",
+    "existing_name": "Karma Theksum Chokhorling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 380722769
+  },
+  {
+    "osm_name": "Palri Pema Od Ling Buddhist Temple",
+    "existing_name": "Palri Pema Od Ling Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 381777562
+  },
+  {
+    "osm_name": "Chua Linh Son Temple",
+    "existing_name": "Chua Linh Son Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 381910085
+  },
+  {
+    "osm_name": "Austin Zen Center",
+    "existing_name": "Austin Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 382026924
+  },
+  {
+    "osm_name": "Austin Shambhala Meditation Center",
+    "existing_name": "Austin Shambhala Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 382454742
+  },
+  {
+    "osm_name": "Wat Siddhattharam",
+    "existing_name": "Wat Siddhattharam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 382506660
+  },
+  {
+    "osm_name": "Wat Buddhananachat of Austin",
+    "existing_name": "Wat Buddhananachat of Austin",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 382512288
+  },
+  {
+    "osm_name": "Phap Nhan Temple",
+    "existing_name": "Phap Nhan Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 382787787
+  },
+  {
+    "osm_name": "Theravada Dhamma Society of America",
+    "existing_name": "Theravada Dhamma Society of America",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 383130961
+  },
+  {
+    "osm_name": "Austin Buddhist Center - Aloko Udapadi",
+    "existing_name": "Austin Buddhist Center - Aloko Udapadi",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 383567485
+  },
+  {
+    "osm_name": "Austin Buddhist Vihara",
+    "existing_name": "Austin Buddhist Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 384443250
+  },
+  {
+    "osm_name": "Templo Budista Fo Guang Shan Chile",
+    "existing_name": "Templo Budista Fo Guang Shan Chile",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 385347220
+  },
+  {
+    "osm_name": "Kannon Do Zen Meditation Center",
+    "existing_name": "Kannon Do Zen Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 389266246
+  },
+  {
+    "osm_name": "Pagode Tambao Chùa",
+    "existing_name": "Pagode Tambao Chùa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 390414873
+  },
+  {
+    "osm_name": "Manawmaya Theravada Buddhist Society",
+    "existing_name": "Manawmaya Theravada Buddhist Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 391082987
+  },
+  {
+    "osm_name": "Nichiren Shoshu Myoshoji Temple",
+    "existing_name": "Nichiren Shoshu Myoshoji Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 391117480
+  },
+  {
+    "osm_name": "An Lac Temple",
+    "existing_name": "An Lac Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 391823924
+  },
+  {
+    "osm_name": "Nichiren Shoshu Myohoji Temple",
+    "existing_name": "Nichiren Shoshu Myohoji Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 392455890
+  },
+  {
+    "osm_name": "Berkeley Higashi Honganji Temple",
+    "existing_name": "Berkeley Higashi Honganji Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 400203203
+  },
+  {
+    "osm_name": "Berkeley Buddhist Priory",
+    "existing_name": "Berkeley Buddhist Priory",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 400536209
+  },
+  {
+    "osm_name": "Sangha Jewel Zen Center",
+    "existing_name": "Sangha Jewel Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 402538446
+  },
+  {
+    "osm_name": "Ventura Buddhist Center - An Lac Mission",
+    "existing_name": "Ventura Buddhist Center - An Lac Mission",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 404304169
+  },
+  {
+    "osm_name": "Chua Tuong Van",
+    "existing_name": "Chua Tuong Van",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 411540323
+  },
+  {
+    "osm_name": "Centro Budista Tibetano Ganden Chöeling Nicaragua",
+    "existing_name": "Centro Budista Tibetano Ganden Chöeling Nicaragua",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 418647802
+  },
+  {
+    "osm_name": "Asosiación de Budismo Tibetano Kagyu Camino del Diamante",
+    "existing_name": "Asosiación de Budismo Tibetano Kagyu Camino del Diamante",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 419720377
+  },
+  {
+    "osm_name": "Lhakang Building",
+    "existing_name": "Lhakang Building",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 423702821
+  },
+  {
+    "osm_name": "Kadampa Meditation Center Hollywood",
+    "existing_name": "Kadampa Meditation Center Hollywood",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 424687050
+  },
+  {
+    "osm_name": "Nishi Hongwanji Los Angeles Betsuin",
+    "existing_name": "Nishi Hongwanji Los Angeles Betsuin",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 427628870
+  },
+  {
+    "osm_name": "Koyasan Beikoku Betsuin of Los Angeles",
+    "existing_name": "Koyasan Beikoku Betsuin of Los Angeles",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 427817541
+  },
+  {
+    "osm_name": "Templo Odsal Ling",
+    "existing_name": "Templo Odsal Ling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 428361534
+  },
+  {
+    "osm_name": "Associação Brasil SGI",
+    "existing_name": "Associação Brasil SGI",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 431470876
+  },
+  {
+    "osm_name": "วัดพระเชตวัน - Wat Phrajetavan",
+    "existing_name": "วัดพระเชตวัน - Wat Phrajetavan",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 431668112
+  },
+  {
+    "osm_name": "Kadampa Meditation Center Madison",
+    "existing_name": "Kadampa Meditation Center Madison",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 432792214
+  },
+  {
+    "osm_name": "Long Beach Sagely Monastery",
+    "existing_name": "Long Beach Sagely Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 441315296
+  },
+  {
+    "osm_name": "Chua Tam Bao",
+    "existing_name": "Chua Tam Bao",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 441542961
+  },
+  {
+    "osm_name": "Kootenay Shambhala Meditation Centre",
+    "existing_name": "Kootenay Shambhala Meditation Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 445970419
+  },
+  {
+    "osm_name": "Soka-Gakkai International USA Buddhist Center",
+    "existing_name": "Soka-Gakkai International USA Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 449773345
+  },
+  {
+    "osm_name": "Khmer Temple",
+    "existing_name": "Khmer Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 450175902
+  },
+  {
+    "osm_name": "Shambhala Centre",
+    "existing_name": "Shambhala Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 453083544
+  },
+  {
+    "osm_name": "Chua Bo De Buddist Temple",
+    "existing_name": "Chua Bo De Buddist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 456378236
+  },
+  {
+    "osm_name": "Wat Dhammagunaram of Utah",
+    "existing_name": "Wat Dhammagunaram of Utah",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 462207278
+  },
+  {
+    "osm_name": "Zen Centre of Ottawa",
+    "existing_name": "Zen Centre of Ottawa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 465724459
+  },
+  {
+    "osm_name": "Buddhist Temple of Alameda",
+    "existing_name": "Buddhist Temple of Alameda",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 465970489
+  },
+  {
+    "osm_name": "Buddhist Center of Dallas",
+    "existing_name": "Buddhist Center of Dallas",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 468133012
+  },
+  {
+    "osm_name": "Moiliili Hongwanji Buddhist Temple",
+    "existing_name": "Moiliili Hongwanji Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 468512402
+  },
+  {
+    "osm_name": "Mantokuji Soto Zen Temple of Maui",
+    "existing_name": "Mantokuji Soto Zen Temple of Maui",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 471291218
+  },
+  {
+    "osm_name": "Ottawa-Hull Cambodian Buddhist Association",
+    "existing_name": "Ottawa-Hull Cambodian Buddhist Association",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 471811666
+  },
+  {
+    "osm_name": "Wat Pa Lao Buddhadham",
+    "existing_name": "Wat Pa Lao Buddhadham",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 479313102
+  },
+  {
+    "osm_name": "SGI-USA Buddhist Community Center",
+    "existing_name": "SGI-USA Buddhist Community Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 479769493
+  },
+  {
+    "osm_name": "Ottawa Buddhist Vihara",
+    "existing_name": "Ottawa Buddhist Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 481263851
+  },
+  {
+    "osm_name": "Tu An Pagoda",
+    "existing_name": "Tu An Pagoda",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 483090007
+  },
+  {
+    "osm_name": "Sera Jey Foundation",
+    "existing_name": "Sera Jey Foundation",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 483733614
+  },
+  {
+    "osm_name": "Mahamuni Theravada Buddhist Society",
+    "existing_name": "Mahamuni Theravada Buddhist Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 486820963
+  },
+  {
+    "osm_name": "Won Buddhism of Colorado",
+    "existing_name": "Won Buddhism of Colorado",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 487543599
+  },
+  {
+    "osm_name": "Wat Washington Buddhavanaram",
+    "existing_name": "Wat Washington Buddhavanaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 487806151
+  },
+  {
+    "osm_name": "Eininji - Templo Budista Zen",
+    "existing_name": "Eininji - Templo Budista Zen",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 488124107
+  },
+  {
+    "osm_name": "Templo Memorial da Brasil Soka Gakkai Internacional",
+    "existing_name": "Templo Memorial da Brasil Soka Gakkai Internacional",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 490217216
+  },
+  {
+    "osm_name": "Chùa Huong Dam Temple",
+    "existing_name": "Chùa Huong Dam Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 492223250
+  },
+  {
+    "osm_name": "Wat Buddha-Dhamma",
+    "existing_name": "Wat Buddha-Dhamma",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 497279965
+  },
+  {
+    "osm_name": "Chùa Quan Âm Vietnamese Buddhist Temple",
+    "existing_name": "Chùa Quan Âm Vietnamese Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 497283134
+  },
+  {
+    "osm_name": "Zen Buddhist Temple",
+    "existing_name": "Zen Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 502195833
+  },
+  {
+    "osm_name": "Tu Viện Viên Quang",
+    "existing_name": "Tu Viện Viên Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 502880300
+  },
+  {
+    "osm_name": "Templo Enkoji",
+    "existing_name": "Templo Enkoji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 503136962
+  },
+  {
+    "osm_name": "Chùa Từ Bi",
+    "existing_name": "Chùa Từ Bi",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 515633028
+  },
+  {
+    "osm_name": "Lao Buddhist Temple of Minnesota",
+    "existing_name": "Lao Buddhist Temple of Minnesota",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 525036510
+  },
+  {
+    "osm_name": "The Cambodian Buddhist Temple",
+    "existing_name": "The Cambodian Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 533012595
+  },
+  {
+    "osm_name": "Tịnh Xá Ngọc Sơn",
+    "existing_name": "Tịnh Xá Ngọc Sơn",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 535055581
+  },
+  {
+    "osm_name": "Vietnamese Buddhist Community of Spokane",
+    "existing_name": "Vietnamese Buddhist Community of Spokane",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 535412013
+  },
+  {
+    "osm_name": "Chùa Viên Thông Tự",
+    "existing_name": "Chùa Viên Thông Tự",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 543746753
+  },
+  {
+    "osm_name": "Chùa Linh Sơn",
+    "existing_name": "Chùa Linh Sơn",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 543762102
+  },
+  {
+    "osm_name": "Chùa Đại Giác",
+    "existing_name": "Chùa Đại Giác",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 543766166
+  },
+  {
+    "osm_name": "Soka Gakkai International - USA",
+    "existing_name": "Soka Gakkai International - USA",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 543944203
+  },
+  {
+    "osm_name": "SGI-USA Weston Community Center",
+    "existing_name": "SGI-USA Weston Community Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 545591011
+  },
+  {
+    "osm_name": "SGI-USA Florida Nature and Culture Center",
+    "existing_name": "SGI-USA Florida Nature and Culture Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 545591086
+  },
+  {
+    "osm_name": "Chùa Điều Ngự",
+    "existing_name": "Chùa Điều Ngự",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 550408116
+  },
+  {
+    "osm_name": "Zen Center of Pittsburgh",
+    "existing_name": "Zen Center of Pittsburgh",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 550681534
+  },
+  {
+    "osm_name": "Soka Gakkai International of Canada",
+    "existing_name": "Soka Gakkai International of Canada",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 566230608
+  },
+  {
+    "osm_name": "Sorka Gakkai International-USA Buddhist Center",
+    "existing_name": "Sorka Gakkai International-USA Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 569117453
+  },
+  {
+    "osm_name": "TEMPLO HONPA HONGWANJI DE LINS",
+    "existing_name": "TEMPLO HONPA HONGWANJI DE LINS",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 575741130
+  },
+  {
+    "osm_name": "Watt Khmer Palelai",
+    "existing_name": "Watt Khmer Palelai",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 576007489
+  },
+  {
+    "osm_name": "Chua Lien Huu Tinh Do Temple",
+    "existing_name": "Chua Lien Huu Tinh Do Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 583741833
+  },
+  {
+    "osm_name": "Sitagu Buddha Vihara",
+    "existing_name": "Sitagu Buddha Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 583745347
+  },
+  {
+    "osm_name": "Chua Dai Bi",
+    "existing_name": "Chua Dai Bi",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 587988246
+  },
+  {
+    "osm_name": "Wat Chaimongkolvraram",
+    "existing_name": "Wat Chaimongkolvraram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 607160942
+  },
+  {
+    "osm_name": "Chùa Phật Tuệ",
+    "existing_name": "Chùa Phật Tuệ",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 627900661
+  },
+  {
+    "osm_name": "Wat Dhammaram",
+    "existing_name": "Wat Dhammaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 628970468
+  },
+  {
+    "osm_name": "Wat Nawamintararachutis",
+    "existing_name": "Wat Nawamintararachutis",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 639474017
+  },
+  {
+    "osm_name": "Tu Vien Giac Hanh Temple",
+    "existing_name": "Tu Vien Giac Hanh Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 641992482
+  },
+  {
+    "osm_name": "Rissho Kosei-Kai Buddhist Learning Center",
+    "existing_name": "Rissho Kosei-Kai Buddhist Learning Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 650405579
+  },
+  {
+    "osm_name": "Chua Van Hoa",
+    "existing_name": "Chua Van Hoa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 652546913
+  },
+  {
+    "osm_name": "Shambhala Meditation Center of Milwaukee",
+    "existing_name": "Shambhala Meditation Center of Milwaukee",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 660616170
+  },
+  {
+    "osm_name": "Dharma Drum Mountain (Toronto)",
+    "existing_name": "Dharma Drum Mountain (Toronto)",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 661777095
+  },
+  {
+    "osm_name": "Chua Kim Quang",
+    "existing_name": "Chua Kim Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 662147912
+  },
+  {
+    "osm_name": "Soka Gakkai International Association of Canada",
+    "existing_name": "Soka Gakkai International Association of Canada",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 662768863
+  },
+  {
+    "osm_name": "Lao Buddhist Temple",
+    "existing_name": "Lao Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 663023131
+  },
+  {
+    "osm_name": "Wat Phrasriratanaram",
+    "existing_name": "Wat Phrasriratanaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 664774206
+  },
+  {
+    "osm_name": "Chùa Linh Sơn",
+    "existing_name": "Chùa Linh Sơn",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 665434744
+  },
+  {
+    "osm_name": "Aryaloka Buddhist Center",
+    "existing_name": "Aryaloka Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 670300740
+  },
+  {
+    "osm_name": "Chenrezig Tibetan Buddhist Center of Philadelphia",
+    "existing_name": "Chenrezig Tibetan Buddhist Center of Philadelphia",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 673779119
+  },
+  {
+    "osm_name": "Fo Guang Shan North Carolina Temple",
+    "existing_name": "Fo Guang Shan North Carolina Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 677323640
+  },
+  {
+    "osm_name": "Chùa Phổ Quang",
+    "existing_name": "Chùa Phổ Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 683133208
+  },
+  {
+    "osm_name": "Jikoji Retreat",
+    "existing_name": "Jikoji Retreat",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 685532414
+  },
+  {
+    "osm_name": "Rissho Kosei Kai",
+    "existing_name": "Rissho Kosei Kai",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 685542499
+  },
+  {
+    "osm_name": "Fo Guang Shan Saint Louis Buddhist Center",
+    "existing_name": "Fo Guang Shan Saint Louis Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 699477077
+  },
+  {
+    "osm_name": "Kadampa Buddhist Temple",
+    "existing_name": "Kadampa Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 701113606
+  },
+  {
+    "osm_name": "Wat Lao Siribuddhavas of Dallas",
+    "existing_name": "Wat Lao Siribuddhavas of Dallas",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 709029054
+  },
+  {
+    "osm_name": "Fo Guang Shan Denver Vihara",
+    "existing_name": "Fo Guang Shan Denver Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 711229010
+  },
+  {
+    "osm_name": "Asssociação Brasil SGI",
+    "existing_name": "Asssociação Brasil SGI",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 717685016
+  },
+  {
+    "osm_name": "Templo Honpa Hongwanji",
+    "existing_name": "Templo Honpa Hongwanji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 723247765
+  },
+  {
+    "osm_name": "Chùa Tam-Bảo",
+    "existing_name": "Chùa Tam-Bảo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 741975523
+  },
+  {
+    "osm_name": "Santa Cruz Zen Center",
+    "existing_name": "Santa Cruz Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 746598025
+  },
+  {
+    "osm_name": "Chùa Phật Quang",
+    "existing_name": "Chùa Phật Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 763764456
+  },
+  {
+    "osm_name": "Chùa Bảo Quang",
+    "existing_name": "Chùa Bảo Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 764331717
+  },
+  {
+    "osm_name": "Chùa Như Lai",
+    "existing_name": "Chùa Như Lai",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 764532048
+  },
+  {
+    "osm_name": "Chùa Phật Bảo",
+    "existing_name": "Chùa Phật Bảo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 765881170
+  },
+  {
+    "osm_name": "Chùa Bửu Quang",
+    "existing_name": "Chùa Bửu Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 765886868
+  },
+  {
+    "osm_name": "Chùa Minh Đức",
+    "existing_name": "Chùa Minh Đức",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 765931060
+  },
+  {
+    "osm_name": "Chùa Linh-Sơn;Linh-Son Buddhist Temple",
+    "existing_name": "Chùa Linh-Sơn;Linh-Son Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 766562610
+  },
+  {
+    "osm_name": "Chùa An Bằng;An Bang Buddhist Temple",
+    "existing_name": "Chùa An Bằng;An Bang Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 766571833
+  },
+  {
+    "osm_name": "Chùa Bát Nhã",
+    "existing_name": "Chùa Bát Nhã",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 766574528
+  },
+  {
+    "osm_name": "Wat Alaska Yanna Varraran",
+    "existing_name": "Wat Alaska Yanna Varraran",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 772508623
+  },
+  {
+    "osm_name": "Chùa Thiên Trúc",
+    "existing_name": "Chùa Thiên Trúc",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 779120668
+  },
+  {
+    "osm_name": "Wat Lao Buddha Phothisaram",
+    "existing_name": "Wat Lao Buddha Phothisaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 780600416
+  },
+  {
+    "osm_name": "Buddhist Tzu Chi Foundation of Long Island",
+    "existing_name": "Buddhist Tzu Chi Foundation of Long Island",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 782189216
+  },
+  {
+    "osm_name": "Chùa An Lạc",
+    "existing_name": "Chùa An Lạc",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 786410108
+  },
+  {
+    "osm_name": "Karma Sonam Dargye Ling",
+    "existing_name": "Karma Sonam Dargye Ling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 791059924
+  },
+  {
+    "osm_name": "Chenrezig Tibetan Buddhist Center",
+    "existing_name": "Chenrezig Tibetan Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 791256717
+  },
+  {
+    "osm_name": "World Buddhist Chan Jing Center Inc",
+    "existing_name": "World Buddhist Chan Jing Center Inc",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 796909184
+  },
+  {
+    "osm_name": "Gajang Buddhist Center",
+    "existing_name": "Gajang Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 806544549
+  },
+  {
+    "osm_name": "Kamuela Hongwanji Buddhist Temple",
+    "existing_name": "Kamuela Hongwanji Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 812400860
+  },
+  {
+    "osm_name": "Wat Dhamma Bhavana Buddhist Center",
+    "existing_name": "Wat Dhamma Bhavana Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 818844300
+  },
+  {
+    "osm_name": "Empty Gate Zen Center",
+    "existing_name": "Empty Gate Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 819915742
+  },
+  {
+    "osm_name": "Honpa Hongwanji Mission of Hawaii",
+    "existing_name": "Honpa Hongwanji Mission of Hawaii",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 832082969
+  },
+  {
+    "osm_name": "Kadampa",
+    "existing_name": "Kadampa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 839659471
+  },
+  {
+    "osm_name": "Catskill Zendo Inc",
+    "existing_name": "Catskill Zendo Inc",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 842477472
+  },
+  {
+    "osm_name": "Waipahu Hongwanji Buddhist Temple",
+    "existing_name": "Waipahu Hongwanji Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 844660192
+  },
+  {
+    "osm_name": "Do Ngak Kunphen Ling Tibetan Buddhist Center for Universal Peace",
+    "existing_name": "Do Ngak Kunphen Ling Tibetan Buddhist Center for Universal Peace",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 845536707
+  },
+  {
+    "osm_name": "Hartford Karma Thegsum Chöling Buddhist Center",
+    "existing_name": "Hartford Karma Thegsum Chöling Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 845537398
+  },
+  {
+    "osm_name": "Duc Vien Pagoda",
+    "existing_name": "Duc Vien Pagoda",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 845881296
+  },
+  {
+    "osm_name": "Chua Phat Hue Buddhist Temple",
+    "existing_name": "Chua Phat Hue Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 858693118
+  },
+  {
+    "osm_name": "Mosteiro Zen Budista",
+    "existing_name": "Mosteiro Zen Budista",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 865121297
+  },
+  {
+    "osm_name": "Nichiren Shoshu Templo Daikoji",
+    "existing_name": "Nichiren Shoshu Templo Daikoji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 865823745
+  },
+  {
+    "osm_name": "Chùa Quan Âm Ngàn Tượng",
+    "existing_name": "Chùa Quan Âm Ngàn Tượng",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 890472038
+  },
+  {
+    "osm_name": "Wat Pa Lao Woodland",
+    "existing_name": "Wat Pa Lao Woodland",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 905934003
+  },
+  {
+    "osm_name": "Wat Yarnna Rangsee Buddhist Monastery",
+    "existing_name": "Wat Yarnna Rangsee Buddhist Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 908580439
+  },
+  {
+    "osm_name": "Buddha Eye Zen Community Temple",
+    "existing_name": "Buddha Eye Zen Community Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 910702951
+  },
+  {
+    "osm_name": "Nechung Dorje Drayang Ling, Wood Valley Temple & Retreat",
+    "existing_name": "Nechung Dorje Drayang Ling, Wood Valley Temple & Retreat",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 913731532
+  },
+  {
+    "osm_name": "Tibetan Meditation Center",
+    "existing_name": "Tibetan Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 918943178
+  },
+  {
+    "osm_name": "Wat Xao Phout Lao",
+    "existing_name": "Wat Xao Phout Lao",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 930545154
+  },
+  {
+    "osm_name": "Wat Brahma Cariya Karan",
+    "existing_name": "Wat Brahma Cariya Karan",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 940625663
+  },
+  {
+    "osm_name": "Chùa Hải Ấn Pagoda",
+    "existing_name": "Chùa Hải Ấn Pagoda",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 943605218
+  },
+  {
+    "osm_name": "Wat Pasantidhamma",
+    "existing_name": "Wat Pasantidhamma",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 943833510
+  },
+  {
+    "osm_name": "Great Dharma Chan Monastery",
+    "existing_name": "Great Dharma Chan Monastery",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 946199123
+  },
+  {
+    "osm_name": "Wat Carolina Buddhajakra Vanaram",
+    "existing_name": "Wat Carolina Buddhajakra Vanaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 949199026
+  },
+  {
+    "osm_name": "Cambodian Buddhist Society of Connecticut",
+    "existing_name": "Cambodian Buddhist Society of Connecticut",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 951325162
+  },
+  {
+    "osm_name": "Wat Sirijundhawas",
+    "existing_name": "Wat Sirijundhawas",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 966638569
+  },
+  {
+    "osm_name": "Dai Bosatsu Zendo",
+    "existing_name": "Dai Bosatsu Zendo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 972661938
+  },
+  {
+    "osm_name": "Centro de Meditação Kadampa",
+    "existing_name": "Centro de Meditação Kadampa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1000368803
+  },
+  {
+    "osm_name": "Reno Buddhist Center",
+    "existing_name": "Reno Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1000836631
+  },
+  {
+    "osm_name": "Cambodian Buddhist Society",
+    "existing_name": "Cambodian Buddhist Society",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1002452423
+  },
+  {
+    "osm_name": "Zen Mountain Monastery",
+    "existing_name": "Zen Mountain Monastery Main House",
+    "distance_m": 196.1,
+    "name_similarity": 0.5,
+    "osm_id": 1010825400
+  },
+  {
+    "osm_name": "Buddhist Church of Lodi",
+    "existing_name": "Buddhist Church of Lodi",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1013493371
+  },
+  {
+    "osm_name": "Tịnh Xá Minh Quang",
+    "existing_name": "Tịnh Xá Minh Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1022440372
+  },
+  {
+    "osm_name": "Watt RattanakRaingsey",
+    "existing_name": "Watt RattanakRaingsey",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1030262960
+  },
+  {
+    "osm_name": "Zanabazar Dharma Center",
+    "existing_name": "Zanabazar Dharma Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1033483928
+  },
+  {
+    "osm_name": "Spokane Buddhist Temple",
+    "existing_name": "Spokane Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1042075902
+  },
+  {
+    "osm_name": "Templo Shingonshu Kongoji  Otera",
+    "existing_name": "Templo Shingonshu Kongoji  Otera",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1055189420
+  },
+  {
+    "osm_name": "Wat Lao Thepnimith",
+    "existing_name": "Wat Lao Thepnimith",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1060147867
+  },
+  {
+    "osm_name": "Giac Hanh Buddhist Center",
+    "existing_name": "Giac Hanh Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1070759192
+  },
+  {
+    "osm_name": "Dharma Drum Mountain Buddhist Association",
+    "existing_name": "Dharma Drum Mountain Buddhist Association",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1095746082
+  },
+  {
+    "osm_name": "Dharma Center of Dayton Buddhist Learning Center",
+    "existing_name": "Dharma Center of Dayton Buddhist Learning Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1096868757
+  },
+  {
+    "osm_name": "Wat Metta Wan",
+    "existing_name": "Wat Metta Wan",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1104017075
+  },
+  {
+    "osm_name": "Austin Buddhist Center",
+    "existing_name": "Austin Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1106638519
+  },
+  {
+    "osm_name": "Taungpụlụtaürạ Kạmbhaëkyaüng",
+    "existing_name": "Taungpụlụtaürạ Kạmbhaëkyaüng",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1108484308
+  },
+  {
+    "osm_name": "Chùa Thường Quang",
+    "existing_name": "Chùa Thường Quang",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1115827172
+  },
+  {
+    "osm_name": "SGI-USA Buddhist Center",
+    "existing_name": "SGI-USA Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1136830151
+  },
+  {
+    "osm_name": "Minnesota Buddhist Vihara",
+    "existing_name": "Minnesota Buddhist Vihara",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1157969039
+  },
+  {
+    "osm_name": "Soto Zen Mission Sokoji",
+    "existing_name": "Soto Zen Mission Sokoji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1160776714
+  },
+  {
+    "osm_name": "Lao Buddhist Temple",
+    "existing_name": "Lao Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1171055935
+  },
+  {
+    "osm_name": "Wat Mongkolratanaram Temple",
+    "existing_name": "Wat Mongkolratanaram Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1185523001
+  },
+  {
+    "osm_name": "Wat Lao Buddhist Temple",
+    "existing_name": "Wat Lao Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1193024655
+  },
+  {
+    "osm_name": "Kunzang Palyul Choling",
+    "existing_name": "Kunzang Palyul Choling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1198490938
+  },
+  {
+    "osm_name": "Vipassana Meditation",
+    "existing_name": "Vipassana Meditation",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1198501338
+  },
+  {
+    "osm_name": "Shambhala",
+    "existing_name": "Shambhala",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1203288883
+  },
+  {
+    "osm_name": "මස ෙමම්කාඉ Buddha Medidation Centre",
+    "existing_name": "මස ෙමම්කාඉ Buddha Medidation Centre",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1208533836
+  },
+  {
+    "osm_name": "Wat Lao of Anchroage",
+    "existing_name": "Wat Lao of Anchroage",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1212147933
+  },
+  {
+    "osm_name": "Deer Park Buddhist Center",
+    "existing_name": "Deer Park Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1221349815
+  },
+  {
+    "osm_name": "Belmont Zen Center",
+    "existing_name": "Belmont Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1221922812
+  },
+  {
+    "osm_name": "Cambodian Buddhist Society of Wisconsin",
+    "existing_name": "Cambodian Buddhist Society of Wisconsin",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1222404711
+  },
+  {
+    "osm_name": "Rissho Kosei-kai Buddhist Church",
+    "existing_name": "Rissho Kosei-kai Buddhist Church",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1228987533
+  },
+  {
+    "osm_name": "Pearl City Hongwanji",
+    "existing_name": "Pearl City Hongwanji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1231316160
+  },
+  {
+    "osm_name": "Fo Guang Shan Temple of Ottawa",
+    "existing_name": "Fo Guang Shan Temple of Ottawa",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1243723717
+  },
+  {
+    "osm_name": "Soto Mission of Aiea",
+    "existing_name": "Soto Mission of Aiea",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1243961403
+  },
+  {
+    "osm_name": "Aiea Hongwanji Mission",
+    "existing_name": "Aiea Hongwanji Mission",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1245770439
+  },
+  {
+    "osm_name": "Tam Bao Temple",
+    "existing_name": "Tam Bao Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1248973076
+  },
+  {
+    "osm_name": "วัดพุทธสามัคคีวนาราม",
+    "existing_name": "วัดพุทธสามัคคีวนาราม",
+    "distance_m": 0.0,
+    "name_similarity": 0.0,
+    "osm_id": 1248979072
+  },
+  {
+    "osm_name": "Mountain Spirit Center",
+    "existing_name": "Mountain Spirit Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1251148037
+  },
+  {
+    "osm_name": "Shambhala Meditation Center",
+    "existing_name": "Shambhala Meditation Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1252702116
+  },
+  {
+    "osm_name": "Chùa Ngàn Phật",
+    "existing_name": "Chùa Ngàn Phật",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1283265287
+  },
+  {
+    "osm_name": "Lao Buddhist Association of Olathe",
+    "existing_name": "Lao Buddhist Association of Olathe",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1288176031
+  },
+  {
+    "osm_name": "Chua Chanh Giac Buddhist Culture Center",
+    "existing_name": "Chua Chanh Giac Buddhist Culture Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1291932168
+  },
+  {
+    "osm_name": "Tallahassee Chan Center",
+    "existing_name": "Tallahassee Chan Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1298799071
+  },
+  {
+    "osm_name": "Wat Buddhajakramongkolvararam",
+    "existing_name": "Wat Buddhajakramongkolvararam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1306278980
+  },
+  {
+    "osm_name": "Columbus Karma Thegsum Chöling",
+    "existing_name": "Columbus Karma Thegsum Chöling",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1320449549
+  },
+  {
+    "osm_name": "Buddhist Meditation Center - Wat Paknam Michigan",
+    "existing_name": "Buddhist Meditation Center - Wat Paknam Michigan",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1327119702
+  },
+  {
+    "osm_name": "Waipahu Soto Zen Temple",
+    "existing_name": "Waipahu Soto Zen Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1328993333
+  },
+  {
+    "osm_name": "Hsu Yun Temple - Chinese Buddhist Association",
+    "existing_name": "Hsu Yun Temple - Chinese Buddhist Association",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1380468645
+  },
+  {
+    "osm_name": "Chua Bao Lam",
+    "existing_name": "Chua Bao Lam",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1388043437
+  },
+  {
+    "osm_name": "Haleiwa Jodo Mission",
+    "existing_name": "Haleiwa Jodo Mission",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1388157790
+  },
+  {
+    "osm_name": "Honmon Shoshu Argentina",
+    "existing_name": "Honmon Shoshu Argentina",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1389682028
+  },
+  {
+    "osm_name": "Kadampa Temple for World Peace at IKRC Grand Canyon",
+    "existing_name": "Kadampa Temple for World Peace at IKRC Grand Canyon",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1391187856
+  },
+  {
+    "osm_name": "The Pines Retreat House at IKRC Grand Canyon",
+    "existing_name": "The Pines Retreat House at IKRC Grand Canyon",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1391191646
+  },
+  {
+    "osm_name": "Wat Lao Buddharam of Northern Illinois Temple",
+    "existing_name": "Wat Lao Buddharam of Northern Illinois Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1393593370
+  },
+  {
+    "osm_name": "Wat Lao Buddharam of Northern Illinois",
+    "existing_name": "Wat Lao Buddharam of Northern Illinois",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1393593382
+  },
+  {
+    "osm_name": "Centro de Meditacion Kadampa Chile",
+    "existing_name": "Centro de Meditacion Kadampa Chile",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1395647270
+  },
+  {
+    "osm_name": "Centro de meditación kadampa Argentina",
+    "existing_name": "Centro de meditación kadampa Argentina",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1395648253
+  },
+  {
+    "osm_name": "Centro de Budismo Kadampa Mahamudra",
+    "existing_name": "Centro de Budismo Kadampa Mahamudra",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1395650921
+  },
+  {
+    "osm_name": "West Houston Zen Center",
+    "existing_name": "West Houston Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1411966413
+  },
+  {
+    "osm_name": "Cambodian Buddhist Temple",
+    "existing_name": "Cambodian Buddhist Temple",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1428892260
+  },
+  {
+    "osm_name": "អគារ ទេវ សុវណ្ណគីរី វត្តសុវណ្ណគីរី",
+    "existing_name": "អគារ ទេវ សុវណ្ណគីរី វត្តសុវណ្ណគីរី",
+    "distance_m": 0.0,
+    "name_similarity": 0.0,
+    "osm_id": 1454307773
+  },
+  {
+    "osm_name": "វត្ត សុវណ្ណគីរី",
+    "existing_name": "វត្ត សុវណ្ណគីរី",
+    "distance_m": 0.0,
+    "name_similarity": 0.0,
+    "osm_id": 1454307774
+  },
+  {
+    "osm_name": "Wat Khemarak Pothiram Seattle",
+    "existing_name": "Wat Khemarak Pothiram Seattle",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1469173346
+  },
+  {
+    "osm_name": "Korinji",
+    "existing_name": "Korinji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 1477010360
+  },
+  {
+    "osm_name": "San Francisco Zen Center",
+    "existing_name": "San Francisco Zen Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 3439271
+  },
+  {
+    "osm_name": "Wat Promkunaram",
+    "existing_name": "Wat Promkunaram",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 5301261
+  },
+  {
+    "osm_name": "Jodo Shinshu Shinrankai do Brasil",
+    "existing_name": "Jodo Shinshu Shinrankai do Brasil",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 12315491
+  },
+  {
+    "osm_name": "Templo Budista Kaidozan Shoboji",
+    "existing_name": "Templo Budista Kaidozan Shoboji",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 16327485
+  },
+  {
+    "osm_name": "Sarathchandra Buddhist Center",
+    "existing_name": "Sarathchandra Buddhist Center",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 17561407
+  },
+  {
+    "osm_name": "Morgan Bay Zendo",
+    "existing_name": "Morgan Bay Zendo",
+    "distance_m": 0.0,
+    "name_similarity": 1.0,
+    "osm_id": 17976868
   }
 ]
